@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nimarkh
-- 👀 I’m interested in Java programming
-- 🌱 I’m currently learning Java language
+- 👀 I’m interested in Java, python, JavaScript
 
 <!---
 Nimarkh/Nimarkh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
